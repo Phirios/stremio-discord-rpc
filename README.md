@@ -6,6 +6,8 @@ Stremio'da izlediğin içeriği Discord profilinde göster. macOS için yazılm�
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord_RPC-5865F2?logo=discord&logoColor=white)
 
+![Preview](assets/preview.png)
+
 ## Özellikler
 
 - **Otomatik algılama** — Stremio'da ne izlediğini otomatik tespit eder
